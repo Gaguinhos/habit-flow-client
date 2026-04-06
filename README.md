@@ -57,7 +57,8 @@ Fornecer uma interface amigável para que o usuário consiga:
 
 ## 📲 Interface do Usuário
 
-![Interfaces do App](sandbox:/mnt/data/2339bd98-1133-41b5-92c6-1eb38daea3eb.png)
+![Interfaces do App](<img width="1491" height="675" alt="Screenshot 2026-04-06 000806" src="https://github.com/user-attachments/assets/7be51dfe-1670-4fb3-b9a6-eb2d17105a17" />
+)
 
 ### 🔎 Explicação da imagem:
 
